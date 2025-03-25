@@ -124,4 +124,5 @@ The "100 Days of Code" challenge is a challenge that was invented to motivate pe
 
 ---
 
-![Udemy Course Completion Certificate](UC-8853e4b7-b7d1-4a68-833a-04e314b31b5c.jpg)
+# Full Stack Web Developer Roadmap
+![FS_roadmap](https://user-images.githubusercontent.com/84141920/211140799-fffc7f64-a183-46de-a3a8-7f2356993be9.png)
